@@ -7,7 +7,7 @@ Dans le cadre du cours de systèmes intelligents, nous avons décidé de réalis
 
 ## **2. Nos objectifs**
 
-Notre objectif va être d'utiliser les modèles vu en cours de machine learning et systèmes intelligents (régression , CNN, DNN) pour créer notre propre modèle qui va être capable de nous donner la longitude et latitude la plus proche possible de l'image que l'on donne à notre modèle.
+Notre objectif va être d'utiliser les modèles vus en cours de machine learning et systèmes intelligents (régression , CNN, DNN) pour créer notre propre modèle qui va être capable de nous donner la longitude et latitude la plus proche possible de l'image que l'on donne à notre modèle.
 
 ## **3. Comment allons nous procéder ?**
 
