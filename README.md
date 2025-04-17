@@ -11,8 +11,8 @@ Notre objectif va être d'utiliser les modèles vus en cours de machine learning
 
 ## **3. Comment allons nous procéder ?**
 
-#####Première étape nous allons récuperer des données grâce à l'API de google street view (10 000 images gratuite) associées à leurs coordonnées (longitude et latitude).
-  Deuxième étape on va redimensionner les images en 640x640 pour avoir le même modèle d'image dans toute notre base de données.
-  Troisème étape on va utiliser le principe de l’augmentation des données qui consiste à générer de nouvelles données à partir de données existantes. On va tourner, zoomer, éclaircir nos images existantes de notre base de données.
+Première étape nous allons récuperer des données grâce à l'API de google street view (10 000 images gratuite) associées à leurs coordonnées (longitude et latitude).
+Deuxième étape on va redimensionner les images en 640x640 pour avoir le même modèle d'image dans toute notre base de données.
+Troisème étape on va utiliser le principe de l’augmentation des données qui consiste à générer de nouvelles données à partir de données existantes. On va tourner, zoomer, éclaircir nos images existantes de notre base de données.
 
 
